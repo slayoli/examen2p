@@ -1,0 +1,52 @@
+.principal {
+    height: 100vh;
+    color: white;
+    flex-direction: column;
+    justify-content:space-around;
+    padding: 0 40px;
+    background: url(/img/imagen.jpg)center center/cover;
+    display: flex;
+    text-align: center;
+    color: rgb(255, 103, 154);
+   
+    }
+    
+     
+.párrafo{
+      margin: 0 auto 10px;
+      max-width: 700px;
+      font-size: 28px;
+      line-height: 1.6em;
+    }
+       
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.mi-barra{ 
+  background-color: rgb(127, 220, 236) !important;
+}
+
+.nav-link{
+  color: rgb(255, 123, 184) !important;
+}
+
+.navbar-brand{
+  color: rgb(255, 0, 119);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.nav-link:hover{
+  color: rgb(53, 164, 255) !important;
+}
+
+.footer{
+  line-height: 50px;
+  background-color: rgb(255, 155, 193);
+  color: rgb(117, 255, 255);
+  text-align: center;
+}
